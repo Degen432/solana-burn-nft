@@ -5,7 +5,7 @@ A UI for burning Solana NFTs and geting back $SOL from the associated token acco
 
 
 
-https://user-images.githubusercontent.com/35653371/157632711-68911aa8-0028-46d7-b836-5b192cc6d2ef.mp4
+https://solana-burn-nft.netlify.app/
 
 
 
