@@ -12,7 +12,7 @@ https://solana-burn-nft.netlify.app/
 
 
 
-## Demo: https://burn-nft-ui.vercel.app/
+## Demo: https://solana-burn-nft.netlify.app/
 
 
 ## Getting Started
